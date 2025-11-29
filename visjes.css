@@ -1,0 +1,120 @@
+#header{
+    text-align: center;
+    font-size: 67px;
+    background-image: url('vissen fotos/bovenvissenfoto.jpeg');
+    background-size: 100%;
+    color:rgb(91, 96, 190);
+    height: 200px;
+    
+}
+
+#boven{
+    height: 200px;
+}
+#logo{
+    text-align: center;
+    width: 25%;
+    height: 200px;
+    float: left;
+    background-image: url('visen\ fotos/visjeslogo.jpeg');
+}
+#titel{
+    float: left;
+    width: 75%;
+    height: 100%;
+    background-image: url('vissen\ fotos/bovenvissenfoto.jpeg');
+    color: rgb(205, 231, 255);
+    font-size: 175px;
+    font-family: Bebas Neue;
+    text-align: center;
+}
+
+
+#midden{
+    height: 500px;
+}
+#menu{
+    float: left;
+    width: 25%;
+    height: 100%;
+    background-color: #1B263B;
+    font-size: 25px;
+    color: aliceblue;
+}
+#content{
+    float: left;
+    width: 75%;
+    height: 100%;
+    background-color:rgb(171, 214, 254);
+    font-size: 20px;
+    
+}
+
+#footer{
+    height: 200px;
+}
+#contactinfo{
+    float: left;
+    height: 100%;
+    width: 100%;
+    background-color: #16476A;
+    color: aliceblue;
+}
+
+
+                                 /* Vanaf hier werk ik aan mijn Home page */
+
+#menu1{
+    text-align: center;
+    height: 50px;
+    background-color:#1B263B;
+    color:aliceblue;
+    font-size: 40px;
+    width: 100%;
+}
+
+#header1{
+    height: 30px;
+    background-color:#223352;
+    text-align: center;
+    font-size: 25px;
+    width: 100%;
+
+}
+
+#content1{
+    text-align: center;
+    width: 100%;
+    
+
+}
+
+#footer1{
+    float: left;
+    background-color:#1B263B;
+    color: white;
+    margin-top: -5px;
+    height: 100px;
+    width: 100%
+
+
+}
+
+a{
+    color: white;
+    text-decoration:none;
+}
+a:visited{
+    color: white;
+}
+
+table{
+    background-color: rgb(171, 214, 254);
+    color: black;
+    border-collapse: separate; 
+    border-spacing: 15px 10px;
+}
+
+body {
+  cursor: url('pointer.cur'), auto;
+}
